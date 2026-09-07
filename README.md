@@ -1,4 +1,4 @@
-# Hi 0x, I'm Kyaw Thu Nay Aung 👋
+# Hi, I'm Kyaw Thu Nay Aung 👋
 ### IT Infrastructure Lead & Open-Source Solutions Specialist
 
 With over 15 years of experience in enterprise infrastructure management, I specialize in designing, deploying, and optimizing robust server environments and hybrid cloud networks. 
